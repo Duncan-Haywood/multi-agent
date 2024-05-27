@@ -1,0 +1,1 @@
+poetry run python multi_agent/crew.py
